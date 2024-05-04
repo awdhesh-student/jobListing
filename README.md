@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 To run the project locally, you need to unzip the folder downloaded from GitHub link
 and install all the dependencies by running the command "npm install" on your editor
+
+**NOTE**: the provided URL was not working, that`s why created a dummy data present as jobListings.json.
